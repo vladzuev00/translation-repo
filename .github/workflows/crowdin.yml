@@ -24,4 +24,4 @@ jobs:
           pull_request_body: 'New Crowdin translations by [Crowdin GH Action](https://github.com/crowdin/github-action)'
           pull_request_base_branch_name: 'main'
         env:
-          CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
+          CROWDIN_PROJECT_ID: ${{ project_id }}
