@@ -1,4 +1,0 @@
-files:
-  - source: /src/main/resources
-    translation: /%original_path%/i18n_%two_letters_code%.%file_extension%
-    escape_special_characters: 0
