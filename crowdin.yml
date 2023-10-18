@@ -1,7 +1,0 @@
-files:
-  - source: /src/main/resources/back/i18n_en.properties
-    translation: /%original_path%/i18n_%two_letters_code%.%file_extension%
-    escape_special_characters: 0
-  - source: /src/main/resources/front/i18n_en.json
-    translation: /%original_path%/i18n_%two_letters_code%.%file_extension%
-    escape_special_characters: 0
