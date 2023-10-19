@@ -2,7 +2,7 @@ name: Crowdin Action
 
 on:
   push:
-    paths: [ 'src/main/resources/back/i18n_en.properties' ]
+    paths: [ 'src/main/resources/*/i18n_en.*' ]
     branches: [ main ]
 
 jobs:
