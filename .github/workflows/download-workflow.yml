@@ -4,6 +4,8 @@ on:
   workflow_dispatch:
     permissions: write-all
 
+-permissions: read|write
+
 jobs:
   crowdin-upload:
     runs-on: ubuntu-latest
