@@ -1,3 +1,0 @@
-files:
-  - source: /src/main/resources/*/i18n_en.*
-    translation: /%original_path%/i18n_%two_letters_code%.%file_extension%
