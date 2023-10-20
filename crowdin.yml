@@ -6,7 +6,7 @@
 
 files: [
   {
-    "source": "/src/main/resources/*/i18n_en.*",
+    "source": "/src/main/resources/**",
     "translation": "/%original_path%/i18n_%two_letters_code%.%file_extension%"
   }
 ]
