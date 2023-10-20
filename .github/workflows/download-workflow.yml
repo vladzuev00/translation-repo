@@ -6,7 +6,7 @@ on:
 permissions: write-all
 
 jobs:
-  crowdin-upload:
+  crowdin-download:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
